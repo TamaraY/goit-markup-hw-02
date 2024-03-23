@@ -36,7 +36,8 @@ a {
 .header-menu-link:hover,
 .header-menu-link:focus,
 .header-menu-link:active,
-.header-address-link:hover .header-address-link:focus {
+.header-address-link:hover,
+.header-address-link:focus {
   color: #404bbf;
 }
 
@@ -48,6 +49,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* -------------------------------------- */
